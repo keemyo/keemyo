@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello World!, I'm Yohan Kim
+
+### Currently 
+- Working on [Hyundai Motor Company](https://www.hyundai.com/kr/en/main)
+
 
 <!--
 **keemyo/keemyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
