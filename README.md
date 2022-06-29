@@ -1,7 +1,11 @@
 # Hello World!, I'm Yohan Kim
 
-# Currently 
-### 1. Job
+# 1. Job
+### Currently
+  - Working on [KakaoPay Corp](https://www.kakaopay.com)
+    -Big Data Analyst @Credit Clan
+    
+### Previosuly
   - Working on [Hyundai Motor Company](https://www.hyundai.com/kr/en/main)
     - Data Analyst @ [Genesis](https://www.genesis.com/kr/ko/main.html)
   - Portfoilo
