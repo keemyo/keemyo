@@ -2,7 +2,7 @@
 
 # 1. Job
 ### Currently
-  - Working on [KakaoPay Corp](https://www.kakaopay.com)
+  - Working on [KakaoPay Corp](https://www.kakaopay.com)\
     -Big Data Analyst @Credit Clan
     
 ### Previosuly
